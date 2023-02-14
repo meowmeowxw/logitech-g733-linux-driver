@@ -1,5 +1,8 @@
 # Logitech G733 Headset Driver
 
+It's not really a driver, it's just an RGB controller(?), but in the future I would like to know what is the headset's battery percentage.
+Logitech hub is not available on linux so I created my own.
+
 ## Build
 
 ```
