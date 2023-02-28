@@ -15,7 +15,7 @@ $ gcc main.c -o main -I/usr/include/hidapi -lhidapi-libusb
 I don't follow standards and I don't have time to implement a proper help atm 🤣.
 
 ```
-$ ./main -t [top|bottom] -r <rgb hex value> -mode [fixed|breathing]
+$ ./main -t [top|bottom] -r <rgb hex value> -m [fixed|breathing]
 ```
 
 Example:
